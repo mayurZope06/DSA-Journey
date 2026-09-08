@@ -1,0 +1,17 @@
+# VS Code
+.vscode/
+
+# C++ compiled files
+*.exe
+*.out
+*.o
+
+# Build folders
+build/
+bin/
+Debug/
+Release/
+
+# OS files
+.DS_Store
+Thumbs.db

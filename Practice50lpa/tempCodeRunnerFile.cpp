@@ -1,0 +1,16 @@
+dq.pushFront(20);
+    dq.print();
+    dq.pushBack(15);
+    dq.print();
+    dq.pushBack(35);
+    dq.print();
+    dq.pushFront(100);
+    dq.print();
+    dq.popFront();
+    dq.print();
+    dq.popFront();
+    dq.print();
+    dq.popFront();
+    dq.print();
+    dq.popFront();
+    dq.print();
